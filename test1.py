@@ -1,0 +1,1 @@
+var ="This is my test django"
